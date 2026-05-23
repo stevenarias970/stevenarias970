@@ -18,6 +18,10 @@ Focused on building modern web applications using Angular, .NET, SQL Server and 
 - SQL Server
 - MySQL
 - APIs REST
+- React
+- JSX
+- GitHub
+- Git
 
 ---
 
