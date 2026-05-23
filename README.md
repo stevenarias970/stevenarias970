@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Steven Arias
 
-<!--
-**stevenarias970/stevenarias970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Junior Full Stack Developer
 
-Here are some ideas to get you started:
+Focused on building modern web applications using Angular, .NET, SQL Server and PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies
+
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- PHP
+- .NET
+- SQL Server
+- MySQL
+- APIs REST
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 Ecommerce Web Store
+Online store developed with PHP, JavaScript and MySQL.
+
+### 📊 Administrative Management System
+CRUD system built with Angular, .NET and SQL Server.
+
+### 🔐 Authentication & Login Systems
+User authentication connected to relational databases.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Angular
+- Backend architecture
+- API integrations
+- SQL optimization
+
+---
+
+## 🌎 Contact
+
+- LinkedIn
+- Email: stevenariasulate20010@gmail.com
+- Website: https://hwstore506.com
